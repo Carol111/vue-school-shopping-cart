@@ -2,7 +2,7 @@
 
 # vue-school-shopping-cart
 
-> Course: [freeCodeCamp.org - Learn Vue.js - Full Course for Beginners - 2019](https://www.youtube.com/watch?v=4deVCNJq3qc)
+> Course: [Vuex for Everyone](https://vueschool.io/courses/vuex-for-everyone)
 
 ## Build Setup
 
