@@ -1,3 +1,5 @@
+![Vue shopping cart app](https://imgur.com/mtdFvsJ.png)
+
 # vue-school-shopping-cart
 
 > Course: [Vuex for Everyone](https://vueschool.io/courses/vuex-for-everyone)
